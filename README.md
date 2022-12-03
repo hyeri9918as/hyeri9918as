@@ -51,7 +51,7 @@
 
 <div align=center>
 
-<a href="https://github.com/hyeri9918as"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeri9918as&layout=compact&theme=github_dark&hide_border=true" /></a> 
+<a href="https://github.com/hyeri9918as"><img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeri9918as&layout=compact&theme=github_dark&hide_border=true" /></a> 
 <a href="https://github.com/hyeri9918as"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=hyeri9918as&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="hyedi3's github stats" /></a>
 
 </div>
