@@ -11,8 +11,6 @@
 
 - 💼 LAB / BigData & DataBase Lab
 
-- ✒️ My Blog / **https://blog.naver.com/hyeri9918s**
-
 - 📬 My email / **hyeri9918as@naver.com**
 
 <h2 align="center">🔥Tech Stack🔥</h2>
